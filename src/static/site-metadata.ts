@@ -16,9 +16,9 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Neewii的Workouts Map',
-  siteUrl: 'neewii-worksout.vercel.app',
-  logo: 'https://avatars.githubusercontent.com/u/138655239?v=4',
+  siteTitle: 'Weihang的Workouts Map',
+  siteUrl: 'weihang-worksout.vercel.app',
+  logo: 'https://avatars.githubusercontent.com/u/123562171?v=4',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
