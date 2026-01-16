@@ -28,7 +28,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Neewii',
-      url: 'neewii-worksout.vercel.app',
+      url: 'https://neewii-worksout.vercel.app',
     },
     {
       name: 'About',
