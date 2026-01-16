@@ -27,8 +27,8 @@ const data: ISiteMetadataResult = {
       url: `${getBasePath()}/summary`,
     },
     {
-      name: 'ben的Blog',
-      url: 'https://ben29.xyz',
+      name: 'Neewii',
+      url: 'neewii-worksout.vercel.app',
     },
     {
       name: 'About',
