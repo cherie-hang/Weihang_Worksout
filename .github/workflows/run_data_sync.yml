@@ -253,6 +253,11 @@ jobs:
   publish_github_pages:
     if: needs.sync.result == 'success' && needs.sync.outputs.BUILD_GH_PAGES == 'true'
     name: Build and publish Github Pages
+
+    permissions:           # ← 新增这个块（必须在uses:同级）
+      pages: write
+      id-token: write      # 这两个是 gh-pages.yml 里 build_and_deploy job 需要的
+
     uses: ./.github/workflows/gh-pages.yml
     with:
       save_data_in_github_cache: ${{needs.sync.outputs.SAVE_DATA_IN_GITHUB_CACHE == 'true'}}
