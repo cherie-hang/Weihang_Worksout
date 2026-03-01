@@ -446,5 +446,37 @@
 "elevation_gain": 7.8,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17560230099,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6047.0,
+"moving_time": "0:26:01",
+"type": "Ride",
+"start_date": "2026-03-01 06:07:33+00:00",
+"start_date_local": "2026-03-01 14:07:33",
+"location_country": "\u6c47\u5ddd\u8857, \u4e2d\u6d77\u793e\u533a, \u5408\u4f5c\u8857\u9053, \u9ad8\u65b0\u533a, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610010, \u4e2d\u56fd",
+"summary_polyline": "egozD{psyR@IFGbA{@|@m@h@YHIDQ@UEWWqAe@{CCi@BQDQZ]dA}@NILAHGb@i@v@w@fCoDb@y@FQDUf@gAj@y@lAyB^i@HWfDkHbAoB^y@`BiDtAcC~B}En@oAZ[C@n@aAb@y@zC_EnAyA`AqAxGiI`AgAvBqClCaDx@}@hLoNtA{A|@oAvAcBr@gAjBmBbBuAlAuAtAsAh@[`A]o@mAgA}Ai@iA}C_Ea@aAq@aAWo@u@kC_@aB_CuM[uBo@{CmAaH_@mBk@oBmBqFwA}C_AiCMe@AYHWZU|Aw@vB{@zAu@dBgA@CEIVQf@k@h@_@t@a@vAs@~FoDbJwFpAy@d@a@OEQI?Cf@k@AOFSDi@DQjAcBVg@Ja@Bm@UmAEeABORs@HcAJc@LWtAwBd@m@f@i@j@e@\\e@\\WP[j@Y@IAGCIC?",
+"average_heartrate": 128.7,
+"average_speed": 3.874,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 17560928736,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6589.6,
+"moving_time": "0:31:06",
+"type": "Ride",
+"start_date": "2026-03-01 07:57:56+00:00",
+"start_date_local": "2026-03-01 15:57:56",
+"location_country": "\u4e2d\u73af\u8def\u4e00\u54c1\u5929\u4e0b\u5927\u8857\u6bb5, \u8425\u95e8\u53e3\u8857\u9053, \u91d1\u725b\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610031, \u4e2d\u56fd",
+"summary_polyline": "aakzDaj}yR`@pAJ`ALh@Ij@_@`AMh@m@d@Sb@KX{@bA?F[h@e@j@_BdBiAfBoAhAyAnBm@l@w@bASJ@BQ^U^sH`JcCzBmD~DOVAPFVV\\HL@TKRk@l@iA|@{A|@SFQ@aAj@WTs@z@e@b@SFe@CUD_Ab@i@ROLEL?LDLn@tA|@xBn@rBTj@n@jAfBvFZvAl@hDf@fEN`AXbAb@bAH^XnBDl@Nb@HnBFj@PnAXrA|@dBhAhDP^t@nAbAfC`@x@N^BZG|@]|Aw@hB[j@W\\k@n@aBzAy@~@eC~C}@bAcCzC{@~@uAhByA|Aw@dAe@d@W\\[r@SXaAhAeAdAyCvD_BfBoEtFcBpB_EhFm@fAUr@Wj@mE|IqDhHeDbG_BnD_EzHkAhBs@v@oEjEs@h@WZD`@L`@Th@\\f@Rt@h@zC@`@ITY^yB~AqAfA_B`BmBrBkC|B",
+"average_heartrate": 122.5,
+"average_speed": 3.531,
+"elevation_gain": 14.6,
+"source": "strava",
+"streak": 1
 }
 ]
