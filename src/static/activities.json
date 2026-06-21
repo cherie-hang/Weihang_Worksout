@@ -702,5 +702,37 @@
 "elevation_gain": 2.4,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 19007587781,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 5904.5,
+"moving_time": "0:27:57",
+"type": "Ride",
+"start_date": "2026-06-21 08:13:28+00:00",
+"start_date_local": "2026-06-21 16:13:28",
+"location_country": "\u6850\u6893\u6797\u5357\u8def, \u706b\u8f66\u5357\u7ad9\u8857\u9053, \u6b66\u4faf\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610041, \u4e2d\u56fd",
+"summary_polyline": "{hzyDm_czRCyADkBK{@EKECM?o@P]DqBJeB@gACUAKISC_BF}FBq@DEDER_@d@ERFjBBxENzOCRMLSFWBmHHmDJ}@?yBD_BMiADuDOoBAaCM}@KUCKGEICYEyA@aDIyBHII_@@A@CCIEEI?uAJuA@i@Bg@ASCKEGIGSEoGBoBE?IsAAwACeF?}GGqEDs@AQABO?i@Hq@BgNJcBBgCLuAVo@DyC@WCqAU}@CeEHQA}A@}DJuGBuJJSBAEQ?eCBwAEuB@yAJgBAsCDcBNwCGsBLcKJaFJaBFmAA_B@OCyAHkCAgAIkACMCEK?u@H{@x@wEp@oDOWUFKC@ACC",
+"average_heartrate": 116.3,
+"average_speed": 3.521,
+"elevation_gain": 8.2,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 19008391958,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 5180.5,
+"moving_time": "0:22:26",
+"type": "Ride",
+"start_date": "2026-06-21 10:14:47+00:00",
+"start_date_local": "2026-06-21 18:14:47",
+"location_country": "\u6210\u90fd\u5e02\u76d0\u9053\u8857\u5c0f\u5b66, 2\u53f7, \u76d0\u9053\u8857, \u6625\u7199\u8def\u8857\u9053, \u9526\u6c5f\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610016, \u4e2d\u56fd",
+"summary_polyline": "{oazD}ndzRJ@\\RVHVBf@?XCHGHq@DGLE~@Gf@?\\HLNBTCf@a@fC[bCYpA_@fCGl@E|@XG`BMbEIhJIlBIdABdGCnHMpA?`FIbB@lCCdKO~BA|AFtCAb@AAA?A?@B?Z?nAM|EAhDBfEG|HQxC?xCMlBCjACpC@jFClCBjEMnGIv@B|@T`D?D?CEBEr@Q`@EhACfA@fBI|FE~D?lAFl@BfBMtACZ@l@F\\@vIIJFDX@|FFbDA~BF|DCt@H`ARfEAf@MJ@BDEB?d@L^F@A",
+"average_heartrate": 132.8,
+"average_speed": 3.849,
+"elevation_gain": 2.2,
+"source": "strava",
+"streak": 1
 }
 ]
